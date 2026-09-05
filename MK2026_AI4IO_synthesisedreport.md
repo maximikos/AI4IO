@@ -2,9 +2,9 @@
 
 ## An opportunity map for the IO–AI nexus: use cases, evidence, limits and enabling conditions
 
-*Research report. Prepared for an audience of input–output, industrial-ecology and AI researchers.*
-
 *by Maximilian KOSLOWSKI @NTNU/Norway. A result of prompting with multiple LLMs.*
+
+*Research report. Prepared for an audience of input–output, industrial-ecology and AI researchers.*
 
 *Version note (second edition). This edition additionally synthesises eleven independently produced reports on the identical task, written by other systems, against the first edition. Claims those reports contained and this one did not were re-verified at source before adoption; §21 records what was adopted, what was rejected and why, and what appears here and nowhere else. The substantive changes are concentrated in §§1, 7, 8, 10 and 12, in the opportunity matrix, and in the two new closing sections §21 and §22. Method note: this report synthesises five independently conducted literature reviews (data pipeline; static/structural analysis; forward-looking analysis; coupling and integration; validation, computation and enabling conditions) together with the principal investigator's own search, reconciled by cross-comparison and majority adjudication of contested claims. Approximately 190 distinct use cases were catalogued and consolidated into the 14 sections below. Evidence status and the feasibility/impact ratings reported here are the reconciled positions; where the reviewers disagreed, the disagreement is stated rather than averaged away.*
 
